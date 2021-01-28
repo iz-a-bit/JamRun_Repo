@@ -1,0 +1,1116 @@
+﻿Log file open, 01/23/21 19:27:52
+LogInit: Display: Running engine for game: LACE_2D
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.290283
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1070 Ti
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Engine.ini]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Engine.ini]
+[2021.01.23-10.27.53:108][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Engine.ini]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Engine.ini]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.23-10.27.53:108][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Engine.ini]
+[2021.01.23-10.27.53:108][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Engine.ini]
+[2021.01.23-10.27.53:112][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-10.27.53:112][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.23-10.27.53:112][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.23-10.27.53:112][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-10.27.53:112][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.23-10.27.53:112][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-10.27.53:112][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.23-10.27.53:112][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.23-10.27.53:112][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.23-10.27.53:112][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.23-10.27.53:112][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.23-10.27.53:112][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.23-10.27.53:112][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.23-10.27.53:112][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.23-10.27.53:112][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.23-10.27.53:112][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.23-10.27.53:112][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.23-10.27.53:112][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.01.23-10.27.53:113][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.01.23-10.27.53:113][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.23-10.27.53:113][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.23-10.27.53:113][  0]LogHAL: Display: Platform has ~ 16 GB [17123557376 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.23-10.27.53:114][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.23-10.27.53:114][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.23-10.27.53:114][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.23-10.27.53:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.23-10.27.53:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.23-10.27.53:115][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-10.27.53:115][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.23-10.27.53:115][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.23-10.27.53:115][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-10.27.53:115][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.23-10.27.53:115][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.23-10.27.53:115][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.23-10.27.53:115][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.01.23-10.27.53:115][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.01.23-10.27.53:115][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.01.23-10.27.53:115][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.01.23-10.27.53:115][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.23-10.27.53:115][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.23-10.27.53:115][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.23-10.27.53:115][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.23-10.27.53:115][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Config/Windows/Engine.ini]
+[2021.01.23-10.27.53:115][  0]LogInit: Computer: DESKTOP-59GQ5T5
+[2021.01.23-10.27.53:115][  0]LogInit: User: user
+[2021.01.23-10.27.53:115][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.01.23-10.27.53:115][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.23-10.27.53:115][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.01.23-10.27.53:115][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.23-10.27.53:115][  0]LogMemory: Process Physical Memory: 115.72 MB used, 115.72 MB peak
+[2021.01.23-10.27.53:115][  0]LogMemory: Process Virtual Memory: 97.21 MB used, 97.21 MB peak
+[2021.01.23-10.27.53:115][  0]LogMemory: Physical Memory: 6770.53 MB used,  9559.77 MB free, 16330.30 MB total
+[2021.01.23-10.27.53:115][  0]LogMemory: Virtual Memory: 5166.74 MB used,  134212560.00 MB free, 134217728.00 MB total
+[2021.01.23-10.27.53:117][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.23-10.27.53:143][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.01.23-10.27.53:143][  0]LogInit: Using OS detected language (ja-JP).
+[2021.01.23-10.27.53:143][  0]LogInit: Using OS detected locale (ja-JP).
+[2021.01.23-10.27.53:220][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2021.01.23-10.27.53:636][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.23-10.27.54:116][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.23-10.27.54:116][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.23-10.27.57:511][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.23-10.27.57:511][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.23-10.27.57:511][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.23-10.27.57:511][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.23-10.27.57:615][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 Ti' (Feature Level 11_0)
+[2021.01.23-10.27.57:615][  0]LogD3D11RHI:       8079/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.01.23-10.27.57:619][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.23-10.27.57:619][  0]LogD3D11RHI:       0/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.23-10.27.57:619][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.23-10.27.57:661][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.23-10.27.57:662][  0]LogD3D11RHI:     GPU DeviceId: 0x1b82 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.23-10.27.57:679][  0]LogWindows: EnumDisplayDevices:
+[2021.01.23-10.27.57:679][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070 Ti' (P:1 D:1)
+[2021.01.23-10.27.57:679][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:1)
+[2021.01.23-10.27.57:679][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2021.01.23-10.27.57:680][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2021.01.23-10.27.57:680][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.01.23-10.27.57:680][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 Ti
+[2021.01.23-10.27.57:680][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.01.23-10.27.57:680][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.01.23-10.27.57:681][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2021.01.23-10.27.57:763][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.23-10.27.57:775][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2021.01.23-10.27.57:776][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.23-10.27.57:776][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.01.23-10.27.58:434][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.23-10.27.59:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.23-10.27.59:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.23-10.27.59:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.23-10.27.59:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.23-10.27.59:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.23-10.27.59:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.23-10.27.59:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.23-10.27.59:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.23-10.27.59:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.23-10.27.59:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.23-10.27.59:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.23-10.27.59:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.23-10.27.59:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.23-10.27.59:521][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.01.23-10.27.59:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.23-10.27.59:565][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.23-10.27.59:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.23-10.27.59:616][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.23-10.27.59:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.23-10.27.59:659][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.23-10.27.59:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.23-10.27.59:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.23-10.27.59:771][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.23-10.27.59:771][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.23-10.27.59:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.23-10.27.59:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.23-10.27.59:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.23-10.27.59:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.23-10.27.59:899][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.23-10.28.00:128][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.23-10.28.01:030][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/Shaders/WorkingDirectory/21584/).
+[2021.01.23-10.28.01:030][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/90E82095420B90AC180C68A7ED7B879E/'.
+[2021.01.23-10.28.01:050][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.23-10.28.01:050][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.23-10.28.01:050][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.23-10.28.05:209][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.23-10.28.05:435][  0]LogDerivedDataCache: Loaded boot cache 0.22s 75MB C:/Users/user/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.01.23-10.28.05:435][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.01.23-10.28.05:435][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/user/OneDrive/デスクトップ/JamRun/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.23-10.28.05:435][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.23-10.28.05:435][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/user/OneDrive/デスクトップ/JamRun/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.23-10.28.05:435][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.23-10.28.05:517][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.23-10.28.05:518][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.23-10.28.05:518][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.23-10.28.05:520][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.23-10.28.05:520][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.23-10.28.05:520][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.23-10.28.05:752][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.23-10.28.05:876][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.23-10.28.06:775][  0]LogAssetRegistry: FAssetRegistry took 0.0066 seconds to start up
+[2021.01.23-10.28.13:847][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.23-10.28.16:301][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.23-10.28.16:301][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.23-10.28.16:301][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.23-10.28.16:301][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.23-10.28.16:302][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.23-10.28.17:093][  0]LogNetVersion: LACE_2D 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 4234041246)
+[2021.01.23-10.28.25:219][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000002B09862E9C0), frame # 0
+[2021.01.23-10.28.25:219][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B0984EC680), frame # 0
+[2021.01.23-10.28.25:232][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B0984BF200), frame # 0
+[2021.01.23-10.28.25:711][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6de60645.bin
+[2021.01.23-10.28.25:761][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/cdd443b1.bin
+[2021.01.23-10.28.25:765][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/205b111c.bin
+[2021.01.23-10.28.25:768][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin.tmp' to 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin' (Error Code 32), retrying in .5s...
+[2021.01.23-10.28.26:268][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin.tmp' to 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin' (Error Code 2), retrying in .5s...
+[2021.01.23-10.28.26:769][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin.tmp' to 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin' (Error Code 2), retrying in .5s...
+[2021.01.23-10.28.27:270][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin.tmp' to 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin' (Error Code 2), retrying in .5s...
+[2021.01.23-10.28.27:770][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin.tmp' to 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin' (Error Code 2), retrying in .5s...
+[2021.01.23-10.28.28:271][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin.tmp' to 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin' (Error Code 2), retrying in .5s...
+[2021.01.23-10.28.28:772][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin.tmp' to 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin' (Error Code 2), retrying in .5s...
+[2021.01.23-10.28.29:273][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin.tmp' to 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin' (Error Code 2), retrying in .5s...
+[2021.01.23-10.28.29:774][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin.tmp' to 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin' (Error Code 2), retrying in .5s...
+[2021.01.23-10.28.30:274][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin.tmp' to 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin' (Error Code 2), retrying in .5s...
+[2021.01.23-10.28.30:775][  0]LogFileManager: Error: Error moving file 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin.tmp' to 'C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/AssetRegistryCache/6a35cbba.bin'.
+[2021.01.23-10.28.30:809][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 5.113807 seconds
+[2021.01.23-10.28.30:813][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.01.23-10.28.30:813][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.01.23-10.28.30:813][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.23-10.28.32:335][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.23-10.28.32:392][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.23-10.28.33:553][  0]SourceControl: ソースコントロールは無効です
+[2021.01.23-10.28.33:556][  0]SourceControl: ソースコントロールは無効です
+[2021.01.23-10.28.33:674][  0]SourceControl: ソースコントロールは無効です
+[2021.01.23-10.28.33:710][  0]SourceControl: ソースコントロールは無効です
+[2021.01.23-10.28.33:820][  0]SourceControl: ソースコントロールは無効です
+[2021.01.23-10.28.37:398][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.23-10.28.37:650][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.23-10.28.37:650][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.23-10.28.38:116][  0]LogOcInput: OculusInput pre-init called
+[2021.01.23-10.28.38:202][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.23-10.28.38:202][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.23-10.28.41:858][  0]LogEngine: Initializing Engine...
+[2021.01.23-10.28.41:954][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.23-10.28.41:965][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.01.23-10.28.42:011][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.021 s
+[2021.01.23-10.28.42:528][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.23-10.28.43:274][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.23-10.28.43:274][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B09EA23C00), frame # 0
+[2021.01.23-10.28.43:275][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B09EAEA980), frame # 0
+[2021.01.23-10.28.43:437][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.23-10.28.43:437][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.23-10.28.43:437][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.23-10.28.43:437][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.23-10.28.43:437][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.23-10.28.43:437][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.23-10.28.43:437][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.23-10.28.43:437][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.23-10.28.43:455][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.23-10.28.43:455][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.23-10.28.43:617][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-10.28.43:617][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-10.28.43:664][  0]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.01.23-10.28.43:687][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/user/OneDrive/デスクトップ/JamRun/Intermediate/CachedAssetRegistry.bin
+[2021.01.23-10.28.43:687][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.23-10.28.43:689][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.23-10.28.43:689][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.23-10.28.43:700][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.23-10.28.43:701][  0]LogInit: FAudioDevice initialized.
+[2021.01.23-10.28.43:714][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.23-10.28.43:721][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/user/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.01.23-10.28.43:721][  0]LogInit: Texture streaming: Enabled
+[2021.01.23-10.28.44:225][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.23-10.28.44:225][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.23-10.28.44:326][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.23-10.28.44:692][  0]LogInit: Transaction tracking system initialized
+[2021.01.23-10.28.45:131][  0]BlueprintLog: New page: エディタの読み込み
+[2021.01.23-10.28.46:590][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2021.01.23-10.28.49:640][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.23-10.28.49:641][  0]LogCook: Display: Mobile HDR setting 0
+[2021.01.23-10.28.50:217][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/OneDrive/デスクトップ/JamRun/Content/' took 0.03s
+[2021.01.23-10.28.53:725][  0]SourceControl: ソースコントロールは無効です
+[2021.01.23-10.28.53:751][  0]LogUnrealEdMisc: Loading editor; pre map load, took 61.603
+[2021.01.23-10.28.53:793][  0]Cmd: MAP LOAD FILE="C:/Users/user/OneDrive/デスクトップ/JamRun/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.23-10.28.53:803][  0]LightingResults: New page: ライティングのビルド
+[2021.01.23-10.28.53:883][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-10.28.53:917][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-10.28.53:964][  0]MapCheck: New page: マップをチェック
+[2021.01.23-10.28.53:964][  0]LightingResults: New page: <何も選択されていません>
+[2021.01.23-10.28.54:424][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B09EA23C00), frame # 0
+[2021.01.23-10.28.54:424][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B09EAEA980), frame # 0
+[2021.01.23-10.28.54:428][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.01.23-10.28.55:258][  0]LogTexture: Display: テクスチャをビルドしています:Diamond (BGRA8、600X600)
+[2021.01.23-10.28.55:258][  0]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision, attempt at redundant update, OK C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/6/TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_3367AFAE4707E96B5E2FFCABA70B2FE__E1460E0637722A60E7B5C8A00C94572E0D819B89.udd.
+[2021.01.23-10.28.55:267][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.23-10.28.55:267][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B08CD23E00), frame # 0
+[2021.01.23-10.28.55:267][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B098CEA480), frame # 0
+[2021.01.23-10.28.55:448][  0]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone2_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=1.000
+[2021.01.23-10.28.55:449][  0]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone3_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=21.000 Y=0.000 Z=1.000
+[2021.01.23-10.28.55:449][  0]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone4_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=0.000 Z=1.000
+[2021.01.23-10.28.55:449][  0]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone5_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=9.000 Y=0.000 Z=1.000
+[2021.01.23-10.28.55:450][  0]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=8.000 Y=0.000 Z=1.000
+[2021.01.23-10.28.55:470][  0]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone2_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=1.000
+[2021.01.23-10.28.55:471][  0]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone3_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=21.000 Y=0.000 Z=1.000
+[2021.01.23-10.28.55:472][  0]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone4_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=0.000 Z=1.000
+[2021.01.23-10.28.55:472][  0]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone5_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=9.000 Y=0.000 Z=1.000
+[2021.01.23-10.28.55:472][  0]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=8.000 Y=0.000 Z=1.000
+[2021.01.23-10.28.55:551][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.23-10.28.55:597][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.01.23-10.28.55:598][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.23-10.28.55:599][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.462ミリ秒かかりました。
+[2021.01.23-10.28.55:599][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 1.825
+[2021.01.23-10.28.56:897][  0]LogUnrealEdMisc: Total Editor Startup Time, took 64.748
+[2021.01.23-10.28.57:089][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2021.01.23-10.28.57:776][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-10.28.57:822][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-10.28.57:828][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-10.28.57:835][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-10.28.57:971][  0]LogCollectionManager: Loaded 0 collections in 0.000758 seconds
+[2021.01.23-10.28.58:103][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/Collections/' took 0.00s
+[2021.01.23-10.28.58:103][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/OneDrive/デスクトップ/JamRun/Content/Developers/user/Collections/' took 0.00s
+[2021.01.23-10.28.58:103][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/OneDrive/デスクトップ/JamRun/Content/Collections/' took 0.00s
+[2021.01.23-10.28.58:103][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 3427 classes and 821 folders.
+[2021.01.23-10.28.58:231][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2021.01.23-10.29.02:803][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.23-10.29.02:893][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 2 classes and 0 folders.
+[2021.01.23-10.29.04:136][  0]LogSlate: Took 0.015555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.23-10.29.04:204][  0]LogSlate: Took 0.020978 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2021.01.23-10.29.04:231][  0]LogSlate: Took 0.026146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2021.01.23-10.29.04:337][  0]LogSlate: Took 0.106259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.23-10.29.04:457][  0]LogSlate: Took 0.046246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.23-10.29.05:293][  0]LogRenderer: Reallocating scene render targets to support 1516x568 Format 10 NumSamples 1 (Frame:1).
+[2021.01.23-10.29.06:222][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.23-10.29.06:222][  0]LogLoad: (Engine Initialization) Total time: 74.07 seconds
+[2021.01.23-10.29.06:222][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.23-10.29.06:527][  0]LogAssetRegistry: Asset discovery search completed in 59.7546 seconds
+[2021.01.23-10.29.06:538][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.006865 seconds (updated 0 objects)
+[2021.01.23-10.29.06:704][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.23-10.29.06:844][  0]LogSlate: Took 0.027492 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.23-10.29.11:866][274]LogTemp: Repeating last play command: 選択ビューポート
+[2021.01.23-10.29.11:930][274]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.23-10.29.12:039][274]PIE: New page: PIEセッション: 2DSideScrollerExampleMap (2021/01/24 4:29:11)
+[2021.01.23-10.29.12:150][274]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.23-10.29.12:152][274]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.23-10.29.12:157][274]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.23-10.29.12:219][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062089s)
+[2021.01.23-10.29.12:229][274]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.23-10.29.12:229][274]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B0C02D4E00), frame # 274
+[2021.01.23-10.29.12:229][274]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B08CE3EAC0), frame # 274
+[2021.01.23-10.29.12:230][274]LogPlayLevel: PIE: World Init took: (0.010928s)
+[2021.01.23-10.29.12:231][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.073147s)
+[2021.01.23-10.29.12:242][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.01.23-10.29.12:251][274]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.23-10.29.12:251][274]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.23-10.29.12:251][274]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.23-10.29.12:251][274]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.23-10.29.12:251][274]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.23-10.29.12:251][274]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.23-10.29.12:251][274]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.23-10.29.12:251][274]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.23-10.29.12:251][274]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.23-10.29.12:251][274]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.23-10.29.12:255][274]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-10.29.12:255][274]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-10.29.12:269][274]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.01.23-10.29.12:269][274]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.23-10.29.12:269][274]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.23-10.29.12:269][274]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.23-10.29.12:269][274]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.23-10.29.12:280][274]LogInit: FAudioDevice initialized.
+[2021.01.23-10.29.12:293][274]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.01.23-10.29.12:401][274]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone2_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=1.000
+[2021.01.23-10.29.12:401][274]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone3_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=21.000 Y=0.000 Z=1.000
+[2021.01.23-10.29.12:401][274]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone4_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=0.000 Z=1.000
+[2021.01.23-10.29.12:401][274]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone5_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=9.000 Y=0.000 Z=1.000
+[2021.01.23-10.29.12:401][274]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=8.000 Y=0.000 Z=1.000
+[2021.01.23-10.29.12:401][274]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.23-19.29.12
+[2021.01.23-10.29.12:402][274]LogWorld: Bringing up level for play took: 0.002521
+[2021.01.23-10.29.12:403][274]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.01.23-10.29.12:506][274]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.01.23-10.29.12:542][274]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2021.01.23-10.29.12:544][274]PIE: サーバーにログインしました
+[2021.01.23-10.29.12:545][274]PIE: PIE合計開始時間 0.661 秒。
+[2021.01.23-10.29.12:660][274]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2021.01.23-10.29.12:660][274]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2021.01.23-10.29.43:510][950]Cmd: RestartLevel
+[2021.01.23-10.29.43:998][951]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap?restart
+[2021.01.23-10.29.44:004][951]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2021.01.23-10.29.44:004][951]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.23-10.29.44:032][951]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-10.29.44:032][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-10.29.44:058][951]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B08CE3EAC0), frame # 3951
+[2021.01.23-10.29.44:058][951]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B0C02D4E00), frame # 3951
+[2021.01.23-10.29.44:058][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.01.23-10.29.44:059][951]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.23-10.29.44:061][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001962s)
+[2021.01.23-10.29.44:062][951]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.23-10.29.44:062][951]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B0C01CBA00), frame # 3951
+[2021.01.23-10.29.44:062][951]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B08CE3F9C0), frame # 3951
+[2021.01.23-10.29.44:062][951]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2021.01.23-10.29.44:062][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002998s)
+[2021.01.23-10.29.44:062][951]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.01.23-10.29.44:064][951]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone2_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=1.000
+[2021.01.23-10.29.44:064][951]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone3_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=21.000 Y=0.000 Z=1.000
+[2021.01.23-10.29.44:064][951]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone4_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=0.000 Z=1.000
+[2021.01.23-10.29.44:064][951]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone5_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=9.000 Y=0.000 Z=1.000
+[2021.01.23-10.29.44:064][951]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=8.000 Y=0.000 Z=1.000
+[2021.01.23-10.29.44:064][951]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.23-19.29.44
+[2021.01.23-10.29.44:064][951]LogWorld: Bringing up level for play took: 0.001178
+[2021.01.23-10.29.44:067][951]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2021.01.23-10.29.44:067][951]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2021.01.23-10.29.44:072][951]LogLoad: Took 0.068155 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap)
+[2021.01.23-10.30.06:182][604]Cmd: RestartLevel
+[2021.01.23-10.30.06:191][605]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap?restart
+[2021.01.23-10.30.06:191][605]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2021.01.23-10.30.06:191][605]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.23-10.30.06:191][605]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-10.30.06:192][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-10.30.06:241][605]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B08CE3F9C0), frame # 6605
+[2021.01.23-10.30.06:241][605]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B0C01CBA00), frame # 6605
+[2021.01.23-10.30.06:242][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.01.23-10.30.06:243][605]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.23-10.30.06:245][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001880s)
+[2021.01.23-10.30.06:245][605]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.23-10.30.06:245][605]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B0BFD3A200), frame # 6605
+[2021.01.23-10.30.06:245][605]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B0C018B9C0), frame # 6605
+[2021.01.23-10.30.06:246][605]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2021.01.23-10.30.06:246][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002735s)
+[2021.01.23-10.30.06:246][605]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.01.23-10.30.06:247][605]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone2_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=1.000
+[2021.01.23-10.30.06:247][605]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone3_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=21.000 Y=0.000 Z=1.000
+[2021.01.23-10.30.06:247][605]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone4_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=0.000 Z=1.000
+[2021.01.23-10.30.06:247][605]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone5_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=9.000 Y=0.000 Z=1.000
+[2021.01.23-10.30.06:247][605]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=8.000 Y=0.000 Z=1.000
+[2021.01.23-10.30.06:247][605]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.23-19.30.06
+[2021.01.23-10.30.06:248][605]LogWorld: Bringing up level for play took: 0.001108
+[2021.01.23-10.30.06:250][605]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2021.01.23-10.30.06:250][605]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2021.01.23-10.30.06:250][605]LogLoad: Took 0.058819 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap)
+[2021.01.23-10.30.15:866][758]Cmd: RestartLevel
+[2021.01.23-10.30.15:874][759]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap?restart
+[2021.01.23-10.30.15:874][759]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2021.01.23-10.30.15:874][759]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.23-10.30.15:874][759]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-10.30.15:875][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-10.30.15:921][759]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B0C018B9C0), frame # 7759
+[2021.01.23-10.30.15:921][759]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B0BFD3A200), frame # 7759
+[2021.01.23-10.30.15:922][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.01.23-10.30.15:923][759]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.23-10.30.15:925][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001858s)
+[2021.01.23-10.30.15:925][759]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.23-10.30.15:925][759]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B0BFD39200), frame # 7759
+[2021.01.23-10.30.15:925][759]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B098CE9D00), frame # 7759
+[2021.01.23-10.30.15:926][759]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2021.01.23-10.30.15:926][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002766s)
+[2021.01.23-10.30.15:926][759]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.01.23-10.30.15:927][759]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone2_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=1.000
+[2021.01.23-10.30.15:927][759]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone3_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=21.000 Y=0.000 Z=1.000
+[2021.01.23-10.30.15:927][759]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone4_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=0.000 Z=1.000
+[2021.01.23-10.30.15:927][759]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone5_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=9.000 Y=0.000 Z=1.000
+[2021.01.23-10.30.15:927][759]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=8.000 Y=0.000 Z=1.000
+[2021.01.23-10.30.15:927][759]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.23-19.30.15
+[2021.01.23-10.30.15:927][759]LogWorld: Bringing up level for play took: 0.001155
+[2021.01.23-10.30.15:930][759]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2021.01.23-10.30.15:930][759]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2021.01.23-10.30.15:930][759]LogLoad: Took 0.055721 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap)
+[2021.01.23-10.30.28:214][233]Cmd: RestartLevel
+[2021.01.23-10.30.28:222][234]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap?restart
+[2021.01.23-10.30.28:222][234]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2021.01.23-10.30.28:222][234]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.23-10.30.28:223][234]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-10.30.28:223][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-10.30.28:273][234]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B098CE9D00), frame # 9234
+[2021.01.23-10.30.28:273][234]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B0BFD39200), frame # 9234
+[2021.01.23-10.30.28:273][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.01.23-10.30.28:274][234]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.23-10.30.28:276][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001861s)
+[2021.01.23-10.30.28:277][234]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.23-10.30.28:277][234]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B0BFA91000), frame # 9234
+[2021.01.23-10.30.28:277][234]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B098CE9080), frame # 9234
+[2021.01.23-10.30.28:277][234]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2021.01.23-10.30.28:277][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002728s)
+[2021.01.23-10.30.28:277][234]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.01.23-10.30.28:278][234]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone2_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=1.000
+[2021.01.23-10.30.28:278][234]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone3_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=21.000 Y=0.000 Z=1.000
+[2021.01.23-10.30.28:278][234]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone4_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=0.000 Z=1.000
+[2021.01.23-10.30.28:278][234]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone5_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=9.000 Y=0.000 Z=1.000
+[2021.01.23-10.30.28:278][234]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=8.000 Y=0.000 Z=1.000
+[2021.01.23-10.30.28:279][234]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.23-19.30.28
+[2021.01.23-10.30.28:279][234]LogWorld: Bringing up level for play took: 0.001092
+[2021.01.23-10.30.28:281][234]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2021.01.23-10.30.28:281][234]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2021.01.23-10.30.28:281][234]LogLoad: Took 0.058884 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap)
+[2021.01.23-10.30.41:140][777]Cmd: RestartLevel
+[2021.01.23-10.30.41:149][778]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap?restart
+[2021.01.23-10.30.41:149][778]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2021.01.23-10.30.41:149][778]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.23-10.30.41:149][778]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-10.30.41:149][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-10.30.41:182][778]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B098CE9080), frame # 10778
+[2021.01.23-10.30.41:182][778]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B0BFA91000), frame # 10778
+[2021.01.23-10.30.41:182][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.01.23-10.30.41:183][778]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.23-10.30.41:185][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001906s)
+[2021.01.23-10.30.41:186][778]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.23-10.30.41:186][778]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B0BFD3A200), frame # 10778
+[2021.01.23-10.30.41:186][778]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B0C0189080), frame # 10778
+[2021.01.23-10.30.41:186][778]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2021.01.23-10.30.41:186][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002763s)
+[2021.01.23-10.30.41:186][778]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.01.23-10.30.41:188][778]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone2_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=1.000
+[2021.01.23-10.30.41:188][778]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone3_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=21.000 Y=0.000 Z=1.000
+[2021.01.23-10.30.41:188][778]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone4_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=0.000 Z=1.000
+[2021.01.23-10.30.41:188][778]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone5_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=9.000 Y=0.000 Z=1.000
+[2021.01.23-10.30.41:188][778]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=8.000 Y=0.000 Z=1.000
+[2021.01.23-10.30.41:188][778]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.23-19.30.41
+[2021.01.23-10.30.41:188][778]LogWorld: Bringing up level for play took: 0.001102
+[2021.01.23-10.30.41:190][778]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2021.01.23-10.30.41:190][778]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2021.01.23-10.30.41:190][778]LogLoad: Took 0.041852 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap)
+[2021.01.23-10.31.38:060][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-10.31.38:060][431]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.23-10.31.38:060][431]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-10.31.38:060][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-10.31.38:069][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.23-10.31.38:070][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-10.31.38:079][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-10.31.38:093][431]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B0C0189080), frame # 17431
+[2021.01.23-10.31.38:093][431]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B0BFD3A200), frame # 17431
+[2021.01.23-10.31.38:094][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.23-10.31.38:117][432]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.01.23-10.41.27:352][180]LogSlate: Took 0.004715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.23-10.41.27:380][180]LogSlate: Took 0.027244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2021.01.23-10.52.34:754][452]LogStaticMesh: スタティックメッシュ Floor_400x400 をビルド中...
+[2021.01.23-10.52.34:811][452]LogStaticMesh: Built static mesh [0.06s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.01.23-10.52.35:277][452]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.01.23-10.52.35:303][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.01.23-10.52.35:308][452]Cmd: MAP LOAD FILE="C:/Users/user/OneDrive/デスクトップ/JamRun/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.23-10.52.35:313][452]LightingResults: New page: ライティングのビルド
+[2021.01.23-10.52.35:313][452]LoadErrors: New page: マップをロード中: Minimal_Default.umap
+[2021.01.23-10.52.35:368][452]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-10.52.35:382][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-10.52.35:383][452]MapCheck: New page: マップをチェック
+[2021.01.23-10.52.35:383][452]LightingResults: New page: <何も選択されていません>
+[2021.01.23-10.52.35:405][452]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B08CD23E00), frame # 92452
+[2021.01.23-10.52.35:405][452]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B098CEA480), frame # 92452
+[2021.01.23-10.52.35:406][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.01.23-10.52.35:572][452]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.23-10.52.35:572][452]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.01.23-10.52.35:572][452]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B0B7DEAE00), frame # 92452
+[2021.01.23-10.52.35:572][452]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B0AA209440), frame # 92452
+[2021.01.23-10.52.35:583][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.01.23-10.52.35:628][452]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.23-10.52.35:629][452]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.118ミリ秒かかりました。
+[2021.01.23-10.52.35:629][452]LogFileHelpers: Loading map 'Minimal_Default' took 0.321
+[2021.01.23-10.52.42:596][145]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting
+[2021.01.23-10.52.42:606][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.23-10.52.42:608][145]Cmd: MAP LOAD FILE="C:/Users/user/OneDrive/デスクトップ/JamRun/Content/StarterContent/Maps/Advanced_Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.23-10.52.42:608][145]LightingResults: New page: ライティングのビルド
+[2021.01.23-10.52.42:608][145]LoadErrors: New page: マップをロード中: Advanced_Lighting.umap
+[2021.01.23-10.52.42:634][145]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-10.52.42:634][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-10.52.42:635][145]MapCheck: New page: マップをチェック
+[2021.01.23-10.52.42:635][145]LightingResults: New page: <何も選択されていません>
+[2021.01.23-10.52.42:644][145]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B0AA209440), frame # 93145
+[2021.01.23-10.52.42:644][145]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B0B7DEAE00), frame # 93145
+[2021.01.23-10.52.42:644][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.23-10.52.42:686][145]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.23-10.52.42:686][145]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2021.01.23-10.52.42:687][145]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B0B7A1AC00), frame # 93145
+[2021.01.23-10.52.42:687][145]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B0B32C34C0), frame # 93145
+[2021.01.23-10.52.42:696][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.01.23-10.52.42:724][145]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.23-10.52.42:724][145]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.119ミリ秒かかりました。
+[2021.01.23-10.52.42:724][145]LogFileHelpers: Loading map 'Advanced_Lighting' took 0.115
+[2021.01.23-10.52.46:864][366]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2021.01.23-10.52.46:894][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.01.23-10.52.46:897][366]Cmd: MAP LOAD FILE="C:/Users/user/OneDrive/デスクトップ/JamRun/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.23-10.52.46:897][366]LightingResults: New page: ライティングのビルド
+[2021.01.23-10.52.46:897][366]LoadErrors: New page: マップをロード中: StarterMap.umap
+[2021.01.23-10.52.46:944][366]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-10.52.46:944][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-10.52.46:944][366]MapCheck: New page: マップをチェック
+[2021.01.23-10.52.46:944][366]LightingResults: New page: <何も選択されていません>
+[2021.01.23-10.52.46:966][366]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B0B32C34C0), frame # 93366
+[2021.01.23-10.52.46:966][366]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B0B7A1AC00), frame # 93366
+[2021.01.23-10.52.46:967][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.01.23-10.52.47:071][366]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.23-10.52.47:071][366]LogAIModule: Creating AISystem for world StarterMap
+[2021.01.23-10.52.47:071][366]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B0C1B0AA00), frame # 93366
+[2021.01.23-10.52.47:071][366]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B0A9B2FB00), frame # 93366
+[2021.01.23-10.52.47:085][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.01.23-10.52.47:114][366]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.23-10.52.47:115][366]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.185ミリ秒かかりました。
+[2021.01.23-10.52.47:115][366]LogFileHelpers: Loading map 'StarterMap' took 0.218
+[2021.01.23-10.53.10:936][945]LogAssetEditorSubsystem: Opening Asset editor for MapBuildDataRegistry /Game/StarterContent/Maps/Advanced_Lighting_BuiltData.Advanced_Lighting_BuiltData
+[2021.01.23-10.53.14:604][358]LogSlate: Window 'Advanced_Lighting_BuiltData' being destroyed
+[2021.01.23-10.53.14:609][358]LogSlate: Window 'Advanced_Lighting_BuiltData' being destroyed
+[2021.01.23-10.53.34:135][471]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.01.23-10.53.34:160][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.23-10.53.34:165][471]Cmd: MAP LOAD FILE="C:/Users/user/OneDrive/デスクトップ/JamRun/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.23-10.53.34:165][471]LightingResults: New page: ライティングのビルド
+[2021.01.23-10.53.34:165][471]LoadErrors: New page: マップをロード中: 2DSideScrollerExampleMap.umap
+[2021.01.23-10.53.34:195][471]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-10.53.34:195][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-10.53.34:196][471]MapCheck: New page: マップをチェック
+[2021.01.23-10.53.34:196][471]LightingResults: New page: <何も選択されていません>
+[2021.01.23-10.53.34:206][471]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B0A9B2FB00), frame # 98471
+[2021.01.23-10.53.34:206][471]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B0C1B0AA00), frame # 98471
+[2021.01.23-10.53.34:207][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.01.23-10.53.34:210][471]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone2_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=1.000
+[2021.01.23-10.53.34:210][471]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone3_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=21.000 Y=0.000 Z=1.000
+[2021.01.23-10.53.34:210][471]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone4_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=0.000 Z=1.000
+[2021.01.23-10.53.34:210][471]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone5_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=9.000 Y=0.000 Z=1.000
+[2021.01.23-10.53.34:210][471]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=8.000 Y=0.000 Z=1.000
+[2021.01.23-10.53.34:210][471]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone2_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=1.000
+[2021.01.23-10.53.34:211][471]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone3_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=21.000 Y=0.000 Z=1.000
+[2021.01.23-10.53.34:211][471]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone4_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=0.000 Z=1.000
+[2021.01.23-10.53.34:211][471]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone5_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=9.000 Y=0.000 Z=1.000
+[2021.01.23-10.53.34:211][471]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Deathzone_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=8.000 Y=0.000 Z=1.000
+[2021.01.23-10.53.34:262][471]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.23-10.53.34:262][471]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.23-10.53.34:262][471]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B0B7512200), frame # 98471
+[2021.01.23-10.53.34:262][471]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B0A9B91440), frame # 98471
+[2021.01.23-10.53.34:272][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.23-10.53.34:299][471]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.23-10.53.34:299][471]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.114ミリ秒かかりました。
+[2021.01.23-10.53.34:299][471]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.134
+[2021.01.23-10.54.22:496][ 88]LogSlate: Took 0.095705 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NotoColorEmoji.ttf' (7610K)
+[2021.01.23-10.57.40:433][831]LogSlate: Window '親クラスを選択' being destroyed
+[2021.01.23-10.59.12:287][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.01.23-10.59.12:303][840]LogMetaData: Removing '/Game/2DSideScrollerBP/BP_GAME_CLEAR.BP_GAME_CLEAR:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/2DSideScrollerBP/Game_Clear.PackageMetaData'
+[2021.01.23-10.59.12:303][840]LogMetaData: Removing '/Game/2DSideScrollerBP/BP_GAME_CLEAR.SKEL_BP_GAME_CLEAR_C' ref from Metadata '/Game/2DSideScrollerBP/Game_Clear.PackageMetaData'
+[2021.01.23-10.59.12:303][840]LogMetaData: Removing '/Game/2DSideScrollerBP/BP_GAME_CLEAR.BP_GAME_CLEAR_C' ref from Metadata '/Game/2DSideScrollerBP/Game_Clear.PackageMetaData'
+[2021.01.23-10.59.12:303][840]LogMetaData: Removing '/Game/2DSideScrollerBP/BP_GAME_CLEAR.BP_GAME_CLEAR:EventGraph.K2Node_Event_0' ref from Metadata '/Game/2DSideScrollerBP/Game_Clear.PackageMetaData'
+[2021.01.23-10.59.12:303][840]LogMetaData: Removing '/Game/2DSideScrollerBP/BP_GAME_CLEAR.BP_GAME_CLEAR:EventGraph.K2Node_Event_1' ref from Metadata '/Game/2DSideScrollerBP/Game_Clear.PackageMetaData'
+[2021.01.23-10.59.12:334][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/BP_GAME_CLEAR" FILE="C:/Users/user/OneDrive/デスクトップ/JamRun/Content/2DSideScrollerBP/BP_GAME_CLEAR.uasset" SILENT=true
+[2021.01.23-10.59.12:429][840]LogSavePackage: Moving 'C:/Users/user/OneDrive/デスクトップ/JamRun/Saved/BP_GAME_CLEARBD445F604F578835576FE09CB179D58B.tmp' to 'C:/Users/user/OneDrive/デスクトップ/JamRun/Content/2DSideScrollerBP/BP_GAME_CLEAR.uasset'
+[2021.01.23-10.59.12:601][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.01.23-10.59.12:618][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.23-10.59.12:628][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.01.23-10.59.12:669][840]AssetCheck: New page: アセット保存:BP_GAME_CLEAR
+[2021.01.23-10.59.12:669][840]LogContentValidation: Display: Blueprint /Game/2DSideScrollerBP/BP_GAME_CLEAR.BP_GAME_CLEAR を検証しています
+[2021.01.23-11.00.17:272][  2]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.01.23-11.00.20:423][  2]LogSlate: Took 0.039906 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2021.01.23-11.00.20:436][  2]LogSlate: Took 0.012814 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Heavy.otf' (704K)
+[2021.01.23-11.00.20:493][  2]LogSlate: Took 0.056617 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.01.23-11.00.21:193][  2]LogSlate: Window '親クラスを選択' being destroyed
+[2021.01.23-11.01.57:031][183]LogSlate: Window '親クラスを選択' being destroyed
+[2021.01.23-11.02.27:821][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.23-11.02.29:324][950]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.23-11.02.29:410][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.23-11.02.31:371][159]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.01.23-11.02.34:188][159]LogSlate: Window '親クラスを選択' being destroyed
+[2021.01.23-11.02.54:921][ 32]LogSlate: Window '親クラスを選択' being destroyed
+[2021.01.23-11.03.34:420][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.01.23-11.03.34:421][252]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.011
+[2021.01.23-11.04.02:236][651]LogSlate: Window '親クラスを選択' being destroyed
+[2021.01.23-11.04.29:152][870]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.01.23-11.04.29:152][870]LogWindows: Windows GetLastError: この操作を正しく終了しました。 (0)
+[2021.01.23-11.04.49:222][870]LogWindows: Error: === Critical error: ===
+[2021.01.23-11.04.49:222][870]LogWindows: Error: 
+[2021.01.23-11.04.49:222][870]LogWindows: Error: Assertion failed: !RenamingAsset.IsValid() [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Editor/ContentBrowser/Private/SAssetView.cpp] [Line: 4500] 
+[2021.01.23-11.04.49:222][870]LogWindows: Error: 
+[2021.01.23-11.04.49:222][870]LogWindows: Error: 
+[2021.01.23-11.04.49:222][870]LogWindows: Error: 
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffdd721d759 KERNELBASE.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd6f3de9e6 UE4Editor-Core.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd6f3e1dc8 UE4Editor-Core.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd6f16e53d UE4Editor-Core.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd6f0f97b5 UE4Editor-Core.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd6f0fbaf0 UE4Editor-Core.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8abb60e1 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8ac03baf UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8ab1cc30 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8aaff9af UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8c5561ed UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8c57b389 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8c556e55 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a14c3fa UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a166a44 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a168248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a165aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a164fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8c51c664 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a164fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a164fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8c51c664 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8ac56761 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a168248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a165aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a168248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a165aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a164fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8c56c0bd UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a165915 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a164fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a164fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8c51c664 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a165915 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a168248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a165aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a168248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a165aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a164fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:222][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a168248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a165aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a164fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8c51c664 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a168248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8c51ea00 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a168248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a165aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a164fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8c51c7d9 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a164fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8c51c664 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a165915 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a168248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a165aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a164fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a168248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8c51ea00 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a164fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a168248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8c51ea00 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a165915 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a164fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a168248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a165aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a164fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a164fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8c51c664 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a167866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: [Callstack] 0x00007ffd8a165915 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.23-11.04.49:223][870]LogWindows: Error: 
+[2021.01.23-11.04.49:239][870]LogExit: Executing StaticShutdownAfterError
+[2021.01.23-11.04.49:264][870]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.01.23-11.04.49:264][870]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.01.23-11.04.49:289][870]Log file closed, 01/23/21 20:04:49
